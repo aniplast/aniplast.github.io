@@ -1,0 +1,17 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="1080px" height="523px">
+<defs>
+<filter id="Filter_0">
+    <feFlood flood-color="rgb(255, 255, 255)" flood-opacity="1" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="SourceGraphic" result="compOut" />
+    <feBlend mode="normal" in="compOut" in2="SourceGraphic" />
+</filter>
+
+</defs>
+<rect  x="0" y="557" width="1080" height="523" fill="white" fill-opacity="0.0" />
+<g filter="url(#Filter_0)">
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" transform="matrix( 9.30306368248733, 0, 0, 9.30306368248732,107.669675873497, 323.246927916923)" font-size="21.116px"><tspan font-size="21.116px" font-family="MRT_Extender X-Slant" font-weight="bold" fill="#0F0F0F">&#1570;&#1606;&#1740;&#32;&#1662;&#1604;&#1575;&#1587;&#1578;</tspan></text>
+</g>
+</svg>

@@ -1,0 +1,46 @@
+body {
+    direction: rtl;
+    font-family: "__IRANSans_5", "Poppins", sans-serif;
+    text-align: right;
+}
+
+.carousel-item .slider-image-box {
+    right: auto;
+    left: 0;
+}
+
+.carousel-item {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slider-content .title {
+    font-family: "__IRAN_5";
+    text-shadow: 11px 5px 42px black;
+}
+
+.carousel-item::before {
+    right: 10%;
+    background: -webkit-linear-gradient(rgba(0, 103, 244) 0%, rgba(43, 219, 220, 0.3) 100%);
+    background: -o-linear-gradient(rgba(0, 103, 244) 0%, rgba(43, 219, 220, 0.3) 100%);
+    background: linear-gradient(rgb(0 103 244) 0%, rgba(43, 219, 220, 0.3) 100%);
+}
+
+.navbar-area > .container > .row {
+    background: #00000085;
+    border-radius: 17px;
+}
+
+.navbar-area.sticky > .container > .row {
+    background: transparent;
+    /* border-radius: 17px; */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "__IRAN_5";
+}
+
+.contact-info .single-contact-info .contact-info-content {
+    padding-right: 20px;
+    padding-left: 0;
+}

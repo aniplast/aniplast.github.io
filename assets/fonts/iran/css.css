@@ -1,0 +1,31 @@
+@font-face {
+    font-family: '__IRAN_5';
+    src: url('iran.eot');
+    src: local('â˜º'), url('iran.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '__IRANSans_5';
+    src: url('iransans-bold-web.eot');
+    src: local('â˜º'), url('iransans-bold-web.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '__IRANSans_5';
+    src: url('iransans-light-web.eot');
+    src: local('â˜º'), url('iransans-light-web.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '__IRAN_5';
+    src: url('iranbold.eot');
+    src: local('â˜º'), url('iranbold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
