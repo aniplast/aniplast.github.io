@@ -28,7 +28,7 @@ body {
 
 .navbar-area > .container > .row {
     background: #00000085;
-    border-radius: 17px;
+    /* border-radius: 17px; */
 }
 
 .navbar-area.sticky > .container > .row {
